@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es2015",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "outDir": "build",
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}   
